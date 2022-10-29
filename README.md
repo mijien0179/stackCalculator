@@ -1,7 +1,7 @@
 # stackCalculator
 
-Kwangwoon Univ.
+Kwangwoon Univ.  
 Lecture. 2021-2 Data Structure
 
-Desc:
+Desc:  
 Realize calculator using stack
